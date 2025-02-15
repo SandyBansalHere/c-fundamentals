@@ -1,0 +1,52 @@
+# Compiled object files
+*.o
+
+# Compiled binary files
+*.out
+*.exe
+
+# Precompiled Headers
+*.gch
+
+# Debug and Release folders
+Debug/
+Release/
+
+# macOS specific files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# macOS Finder metadata
+._*
+
+# Thumbnails
+Thumbs.db
+
+# Editor/IDE specific files
+*.swp
+*~
+.vscode/
+.idea/
+
+# CMake generated files
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+
+# Logs and temporary files
+*.log
+*.tmp
+*.bak
+*.swp
+
+# Library files
+*.a
+*.lib
+*.so
+*.dll
+*.dylib
+
+# Todo
+todo.md
